@@ -20,4 +20,7 @@ Git tracks changes.\
 \pard\pardeftab720\sl360\partightenfactor0
 \cf5 \cb6 \outl0\strokewidth0 \strokec5 Creating a 
 \f1\b \cf4 \strokec4 new
-\f0\b0 \cf5 \strokec5  branch is quick.}
+\f0\b0 \cf5 \strokec5  branch is quick 
+\f1\b \cf4 \strokec4 AND
+\f0\b0 \cf5 \strokec5  simple.\
+}
